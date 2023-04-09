@@ -6,7 +6,7 @@ fun main () {
     * */
 
     // Exercícios 1
-
+    var lista = Array(10) {  }
     // Exercícios 2
 
     // Exercícios 3
