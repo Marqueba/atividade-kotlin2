@@ -3,12 +3,12 @@
 ### Temas abordados na aula
 <hr>
 
-##### ``While``;
-##### ``Do-While``;
-##### ``Loop-For``;
-##### ``Range``;
-##### ``Conitnue, Break & Repeat``;
-##### ``Array``;
+- ``While``;
+- ``Do-While``;
+- ``Loop-For``;
+- ``Range``;
+- ``Conitnue, Break & Repeat``;
+- ``Array``;
 
 
 ## 🚀 Tecnologias
